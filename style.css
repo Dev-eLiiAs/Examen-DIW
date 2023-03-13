@@ -1,0 +1,25 @@
+#mapa {
+    height: 100vh;
+}
+
+.lista {
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.sitiostyle {
+    border-bottom: 1px solid black;
+    margin: 5%;
+}
+
+.direccionYtelefono {
+    display: flex;
+}
+
+.subrayado {
+    padding: 0 2%;
+    border-radius: 5px;
+    margin-right: 5%;
+    color: white;
+    background-color: blue;
+}
